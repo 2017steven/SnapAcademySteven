@@ -1,5 +1,5 @@
 LINK TO WEBSITE: https://2017steven.github.io/SnapAcademySteven/
-** Please check it out on your mobile device! I think that's where it absolutely shines!
+** Please check it out on your mobile device!
 
 Hello my name is Steven Nguyen, I am a first year at Pasadena City College studying Computer Science & Mathematics! I intend to transfer in the Fall of 2024 and study either Computer Science & Business or Computer Science & Mathematics. This project is my first foray into web development, prior to this I have only been really familiar with the foundations of C++, Java, and Python. Through this project, I was able to learn the basics of HTML and CSS, I did attempt to learn javascript and implement in my website as well but ultimately found my understanding had been weak given the time span and my scheduling to properly utilize it. 
 
