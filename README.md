@@ -8,7 +8,7 @@ However, I didn't let that stop me from utilizing my new knowledge of HTML and C
 
 I decided to base my website on a small record labeled owned by my favorite DJ, RL GRIME. I wanted to showcase my love for music as well as make the website as interactive as possible in order to drive users to explore the page and listen to the music through embed links and hyperlinks that would give you access to actual events, merchandise, and link you directly to the spotify song/artist page! I believe that the key to any good application or business model is something that catches the user's eyes and makes them want to explore beyond what is just shown outright! I am very proud of what I was able to push out and I'd argue it is even more stunning on mobile devices!
 
-I personally did not use a template but utilized researches such as
+I personally did not use a template but utilized resources such as
 
 * https://www.youtube.com/watch?v=cyuzt1Dp8X8&t=2534s - HTML & CSS Course
 * https://www.youtube.com/watch?v=OltY8JIaP-4&t=350s - How to host a Website On Github Pages
